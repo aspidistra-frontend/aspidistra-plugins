@@ -1,3 +1,9 @@
+/*
+
+	Created: 08/11/2018 @ Aspidistra HQ
+
+*/
+
 (function ( $ ) { 
     $.fn.aspectRatio = function(options) {
         var settings = $.extend({
